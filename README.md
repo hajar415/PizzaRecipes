@@ -1,7 +1,7 @@
 # 🍕 Pizza Recipes - LAB 6
 
 ## 🎬 Démonstration
-▶️ [Cliquer ici pour voir la vidéo démo](https://raw.githubusercontent.com/hajar415/PizzaRecipes/main/demo.mp4)
+▶️ [Cliquer ici pour voir la vidéo démo](https://raw.githubusercontent.com/hajar415/PizzaRecipes/main/vidéo_demo.mp4)
 
 ## Description
 Application Android développée en Java affichant une liste de recettes de pizza.
