@@ -1,10 +1,13 @@
 # 🍕 Pizza Recipes - LAB 6
 
+## 🎬 Démonstration
+▶️ [Cliquer ici pour voir la vidéo démo](https://raw.githubusercontent.com/hajar415/PizzaRecipes/main/demo.mp4)
+
 ## Description
 Application Android développée en Java affichant une liste de recettes de pizza.
 
 ## Fonctionnalités
-- Splash Screen animé
+- Splash Screen
 - Liste des pizzas (nom, image, prix, durée)
 - Écran de détail complet (ingrédients, description, étapes)
 
@@ -14,11 +17,6 @@ Application Android développée en Java affichant une liste de recettes de pizz
 - `service` → ProduitService (Singleton)
 - `adapter` → PizzaAdapter (BaseAdapter)
 - `ui` → SplashActivity, ListPizzaActivity, PizzaDetailActivity
-
-## Technologies
-- Java
-- Android SDK (API 24+)
-- Architecture DAO / Service / Adapter
 
 ## Étudiante
 Hajar — ENSA Marrakech — GCDSTE4
