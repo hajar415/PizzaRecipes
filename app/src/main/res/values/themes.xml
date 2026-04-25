@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.PizzaRecipes" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#F8BBD9</item>
+        <item name="colorPrimaryDark">#F48FB1</item>
+        <item name="colorAccent">#D17A97</item>
+        <item name="android:windowBackground">#8A6BC3</item>
+    </style>
+</resources>
